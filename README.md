@@ -1,7 +1,7 @@
 # Location-level pedestrian crash risk with spatial cross-validation
 
 Course project, Research Methods and Tools, Astana IT University.
-Authors: [fill in names]
+Authors: Otegen Symbat, Bazarbayeva Balslu
 
 ## What this repository contains
 
